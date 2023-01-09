@@ -1,0 +1,17 @@
+#video{ 
+
+    width:100%; 
+
+    height:500px; 
+
+    border: dotted; 
+
+  } 
+  .travel_mainDiv
+  {
+    border: 1px solid darkgoldenrod;
+  }
+  .travel_mainDiv img
+  {
+    width: 100%;
+  }
